@@ -1,0 +1,39 @@
+.person-id{
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+.name{
+  border-bottom: solid blue 1px;
+  width: auto;
+}
+
+.person ol{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  list-style-position: inside;
+  margin-left: 60px;
+  padding: 4px;
+}
+
+.person ol li{
+  margin: 2px;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  
+}
+  
+.info-style{
+  display: flex;
+
+}
+
+
